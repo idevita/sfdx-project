@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- When true, the number has opted in.  If false the number has opted out. --></help>
+    <label><!-- Active --></label>
+    <name>TwilioSF__Active__c</name>
+</CustomFieldTranslation>

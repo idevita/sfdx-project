@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Direction --></label>
+    <name>TwilioSF__Direction__c</name>
+    <picklistValues>
+        <masterLabel>inbound</masterLabel>
+        <translation><!-- inbound --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>outbound-api</masterLabel>
+        <translation><!-- outbound-api --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>outbound-call</masterLabel>
+        <translation><!-- outbound-call --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>outbound-reply</masterLabel>
+        <translation><!-- outbound-reply --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

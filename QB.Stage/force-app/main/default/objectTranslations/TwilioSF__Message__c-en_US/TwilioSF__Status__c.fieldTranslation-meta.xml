@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status --></label>
+    <name>TwilioSF__Status__c</name>
+    <picklistValues>
+        <masterLabel>accepted</masterLabel>
+        <translation><!-- accepted --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>delivered</masterLabel>
+        <translation><!-- delivered --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>failed</masterLabel>
+        <translation><!-- failed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>queued</masterLabel>
+        <translation><!-- queued --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>received</masterLabel>
+        <translation><!-- received --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>receiving</masterLabel>
+        <translation><!-- receiving --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>sending</masterLabel>
+        <translation><!-- sending --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>sent</masterLabel>
+        <translation><!-- sent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>undelivered</masterLabel>
+        <translation><!-- undelivered --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

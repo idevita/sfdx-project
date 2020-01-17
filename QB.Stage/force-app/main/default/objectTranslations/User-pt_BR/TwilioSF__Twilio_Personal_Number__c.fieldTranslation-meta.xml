@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Twilio Personal Number assigned to this User --></help>
+    <label><!-- Twilio Personal Number --></label>
+    <name>TwilioSF__Twilio_Personal_Number__c</name>
+</CustomFieldTranslation>
